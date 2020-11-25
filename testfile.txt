@@ -1,3 +1,0 @@
-Hi all. 
-
-Welcome to Git World...  :) 
